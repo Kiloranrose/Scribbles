@@ -1,13 +1,44 @@
+body {
+	padding: 20px 20px 20px 20px;
+}
+
 h1 {
 	text-align: left;
-	font-family: 'Coming Soon', cursive;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	font-size: 80px;
+	margin-bottom: -20px;
+}
+h2 {
+	font-family:'Dawning of a New Day', cursive;
+	text-align: left;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+li {
+	display: inline;
+	font-family: 'Raleway', sans-serif;
+	font-weight:bold;
+	text-align: right;
 }
 
 p{
 	font-family: 'Raleway', sans-serif;
 
 }
+<<<<<<< HEAD
 
 li {
 	display: inline;
 }
+=======
+table {
+	text-align:center; 
+	width: 100%;
+}
+ td {
+ 	padding: 20px 20px 20px 20px;
+ }
+ 
+>>>>>>> origin/Development
