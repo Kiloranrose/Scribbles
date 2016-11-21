@@ -20,11 +20,11 @@ li {
 	display: inline;
 	font-family: 'Raleway', sans-serif;
 	font-weight:bold;
-	text-align: right;
 }
 
 p{
 	font-family: 'Raleway', sans-serif;
+<<<<<<< HEAD
 
 }
 <<<<<<< HEAD
@@ -36,9 +36,15 @@ li {
 table {
 	text-align:center; 
 	width: 100%;
+=======
+>>>>>>> origin/Development
 }
- td {
- 	padding: 20px 20px 20px 20px;
+
+.thumb {
+	padding: 20px 0px 20px 0px;
  }
+<<<<<<< HEAD
  
+>>>>>>> origin/Development
+=======
 >>>>>>> origin/Development
