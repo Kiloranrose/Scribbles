@@ -20,18 +20,12 @@ li {
 	display: inline;
 	font-family: 'Raleway', sans-serif;
 	font-weight:bold;
-	text-align: right;
 }
 
 p{
 	font-family: 'Raleway', sans-serif;
+}
 
-}
-table {
-	text-align:center; 
-	width: 100%;
-}
- td {
- 	padding: 20px 20px 20px 20px;
+.thumb {
+	padding: 20px 0px 20px 0px;
  }
- 
